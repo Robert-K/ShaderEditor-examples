@@ -11,8 +11,7 @@ There are two options:
 1. Download [Shader Editor](https://play.google.com/store/apps/details?id=de.markusfisch.android.shadereditor&hl=en) and place the .glsl files in Download/ShaderEditor. In the app, navigate to Settings, scroll all the way down and choose "Import shaders".
 2. Be a shader wizard, copy the shader into an environment of your choice and supply similar uniform values to the shader.
 
-Be aware that some shaders require specific sampler2D textures. There are currently none included in this repo. If you run into errors, try adding some random images.
-
+Be aware that some shaders require specific input [textures](Textures). Simply download them to your mobile device and import them into Shader Editor.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
