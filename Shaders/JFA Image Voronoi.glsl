@@ -11,12 +11,6 @@ uniform vec3 pointers[10];
 uniform int pointerCount;
 uniform float startRandom;
 uniform sampler2D Uma;
-uniform sampler2D Absurdism;
-uniform sampler2D spectrum256;
-uniform sampler2D ElHuervo;
-uniform sampler2D ModernInterior;
-uniform sampler2D Uma2;
-uniform sampler2D AntonFramed;
 
 #define IMAGE Uma
 

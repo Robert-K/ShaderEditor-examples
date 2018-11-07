@@ -9,7 +9,7 @@ uniform sampler2D backbuffer;
 uniform float time;
 uniform vec3 pointers[10];
 uniform int pointerCount;
-uniform sampler2D ElHuervo;
+uniform sampler2D Uma;
 
 #define DRAWING 10.
 #define LINE_WIDTH 20.
@@ -106,7 +106,7 @@ vec3 trace(vec2 uv, vec2 dir) {
     //if(p.x<0.||p.y<0.||p.x>1.||p.y>1.) break; //TEST KILL RAYS OUTSIDE VOLUME
   }
   return vec3(totalDist); //DEBUG TOTALDIST
-  //vec3 color = texture2D(ElHuervo, (uv + dir * totalDist)).rgb;
+  //vec3 color = texture2D(Uma, (uv + dir * totalDist)).rgb;
   //vec3 color = vec3(1.,.0,.1);
   //return color * max(0., 1. - totalDist);
 }
