@@ -1,5 +1,5 @@
 # ShaderEditor Examples
-A collection of fragment shaders I've written using [ShaderEditor](https://github.com/markusfisch/ShaderEditor).
+A collection of over 50 fragment shaders I've created using [ShaderEditor](https://github.com/markusfisch/ShaderEditor).
 
 Note that some shaders contain unpolished or unoptimized code. I tediously wrote all of them on my smartphone as a pastime and to prototype ideas on the fly. Hopefully they will inspire you anyway.
 
