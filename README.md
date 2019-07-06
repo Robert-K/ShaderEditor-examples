@@ -1,7 +1,7 @@
 # ShaderEditor Examples
 A collection of over 50 fragment shaders I've created using [ShaderEditor](https://github.com/markusfisch/ShaderEditor).
 
-Note that some shaders contain unpolished or unoptimized code. I tediously wrote all of them on my smartphone as a pastime and to prototype ideas on the fly. Hopefully they will inspire you anyway.
+Note that some shaders contain unpolished or unoptimized code. I tediously wrote all of them on my smartphone as a pastime and to prototype ideas on the fly. I hope they'll inspire you anyway.
 
 ## Screenshots
 <img src="Screenshots/Realtime 2D Global Illumination.jpg" width="400"/> <img src="Screenshots/Simple Raytracer.jpg" width="400"/> <img src="Screenshots/Temporal Godrays.jpg" width="400"/> <img src="Screenshots/Image Voronoi Filter.jpg" width="400"/> <img src="Screenshots/Glitch.jpg" width="400"/> <img src="Screenshots/Jump Flood Voronoi.jpg" width="400"/>
